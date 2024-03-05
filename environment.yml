@@ -1,0 +1,11 @@
+name: FinalDarts
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - anaconda
+  - ta-lib
+  - pip
+  - pip:
+    - -r requirements.txt

@@ -1,0 +1,15 @@
+dill
+uvicorn
+fastapi
+httpx
+numpy
+aiohttp
+pandas
+pydantic
+pymongo
+ray
+Requests
+scikit_learn
+web3
+websockets
+xgboost
